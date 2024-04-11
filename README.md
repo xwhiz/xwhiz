@@ -3,7 +3,7 @@
   [<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
   <img src="https://komarev.com/ghpvc/?username=super0326&label=Profile%20views&color=0e75b6&style=flat" alt="wXyz0326" />
   
-  [gmail]: mailto:whosmilo3@gmail.com
+  [gmail]: mailto:eth@xwhiz.pro
   [telegram]: https://t.me/wxyz0326
   
   As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
@@ -22,7 +22,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 ### Connect with me:
 
 - 💬 Telegram : [@wxyz0326](https://t.me/wxyz0326)
-- 📧 Email : whosmilo3@gmail.com
+- 📧 Email : eth@xwhiz.pro
 
 ### Languages and Tools:
  
