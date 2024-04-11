@@ -1,10 +1,10 @@
 ### Hello, there  
   [<img align="left" alt="Techrate | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
   [<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-  <img src="https://komarev.com/ghpvc/?username=super0326&label=Profile%20views&color=0e75b6&style=flat" alt="wXyz0326" />
+  <img src="https://komarev.com/ghpvc/?username=super0326&label=Profile%20views&color=0e75b6&style=flat" alt="xwhiz" />
   
   [gmail]: mailto:eth@xwhiz.pro
-  [telegram]: https://t.me/wxyz0326
+  [telegram]: https://t.me/xwhizpro
   
   As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
@@ -21,7 +21,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 
 ### Connect with me:
 
-- 💬 Telegram : [@wxyz0326](https://t.me/wxyz0326)
+- 💬 Telegram : [@xwhizpro](https://t.me/xwhizpro)
 - 📧 Email : eth@xwhiz.pro
 
 ### Languages and Tools:
@@ -51,22 +51,22 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
     <tr>
         <td>
             <a href="https://instantxrp.finance/" target="_blank">
-                <img src="https://raw.githubusercontent.com/wXyz0326/wXyz0326/main/Portfolio/instantXRP.png" width="200">
+                <img src="https://raw.githubusercontent.com/xwhiz/xwhiz/main/Portfolio/instantXRP.png" width="200">
             </a>
         </td>
         <td>
             <a href="http://fortcake-amm.vercel.app/" target="_blank">
-                <img src="https://raw.githubusercontent.com/wXyz0326/wXyz0326/main/Portfolio/fortcake.png" width="200">
+                <img src="https://raw.githubusercontent.com/xwhiz/xwhiz/main/Portfolio/fortcake.png" width="200">
             </a>
         </td> 
         <td>
             <a href="https://app.olympusdao.finance/" target="_blank">
-                <img src="https://raw.githubusercontent.com/wXyz0326/wXyz0326/main/Portfolio/olympus.png" width="200">
+                <img src="https://raw.githubusercontent.com/xwhiz/xwhiz/main/Portfolio/olympus.png" width="200">
             </a>
         </td>
         <td>
             <a href="https://apx.finance/" target="_blank">
-                <img src="https://raw.githubusercontent.com/wXyz0326/wXyz0326/main/Portfolio/apex.png" width="200">
+                <img src="https://raw.githubusercontent.com/xwhiz/xwhiz/main/Portfolio/apex.png" width="200">
             </a>
         </td>                
     </tr>
