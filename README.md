@@ -10,13 +10,13 @@
 
 My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
 
-I have developing sites using PHP, Laravel, WordPress, Codeigniter, and Python/Django/Flask, and much more.
+I have developed sites using PHP, Laravel, WordPress, CodeIgniter, and Python/Django/Flask, among others.
 
-Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React, Angular, and Vue.
+Additionally, I have rich experience with the latest JavaScript frameworks, such as Node/Express, React, Angular, and Vue.
 
-I had already built so many Websites with the mentioned skill.
+I have already built numerous websites utilizing these skills.
 
-And I have rich experience with YieldFarming and Dex platforms like Pancakeswap Finance, Olympus Dao, SushiSwap, Uniswap, Tomb Finance, Titano .
+Moreover, I have significant experience with Yield Farming and Dex platforms like PancakeSwap Finance, Olympus Dao, SushiSwap, Uniswap, Tomb Finance, and Titano.
 
 
 ### Connect with me:
