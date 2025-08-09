@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Full Stack & iOS SDK Development**
+ 🔭 I’m currently working on **Polyglot Engineer with focus on Full-stack development.**
  
- 🌱 I’m currently learning **Go, Neovim, Containerization, etc.**
+ 🌱 I’m currently learning **Go, Containerization, and Vue etc.**
 
-💬 Ask me about **React, React Native, iOS, FastAPI, Flutter, MERN ... or anything [here](https://github.com/xwhiz/xwhiz/issues)**
+💬 Ask me about **Vue, React, React Native, iOS, FastAPI, Flutter, MERN ... or anything [here](https://github.com/xwhiz/xwhiz/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,c,java,nextjs,golang,flask,fastapi,django,swift,kotlin" /><br>
+    <img src="https://skillicons.dev/icons?i=react,vue,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,c,java,nextjs,golang,fastapi,swift" /><br>
 </div>
 
 <br/>
